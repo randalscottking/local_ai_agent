@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "local_ai_agent",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
